@@ -66,7 +66,7 @@ if option == "Home" or option == "":
         Lasted GPA : 3.97 from 4.00\n
         University : University of Bina Sarana Informatika\n
         Field : Information System\n
-        Linkedin : http://bit.ly/3x72z9F \n
+        Linkedin : https://www.linkedin.com/in/dhani-munir-supriyadi-5b5169235/ \n
         Github : https://github.com/dhanimunir \n
         Email : Dhani anjay \n
         Phone : +62895326168339
