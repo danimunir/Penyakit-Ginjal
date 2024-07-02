@@ -57,7 +57,7 @@ if option == "Home" or option == "":
     st.write("This website is about build project Chronic Kidney Desease")
     col1, col2 = st.columns(2)
     with col1:
-        st.image("https://dhonihanif.netlify.app/doni.jpeg", width=200)
+        st.image("danitelkom.jpeg", width=200)
     with col2:
         st.write(f"""
         Name : Dhani Munir Supriyadi\n
@@ -69,7 +69,7 @@ if option == "Home" or option == "":
         Linkedin : http://bit.ly/3x72z9F \n
         Github : https://github.com/dhanimunir \n
         Email : Dhani anjay \n
-        Phone : +62895326168335
+        Phone : +62895326168339
         """)
 
 elif option == "Dataframe":
