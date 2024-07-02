@@ -68,7 +68,7 @@ if option == "Home" or option == "":
         Field : Information System\n
         Linkedin : https://www.linkedin.com/in/dhani-munir-supriyadi-5b5169235/ \n
         Github : https://github.com/dhanimunir \n
-        Email : Dhani anjay \n
+        Email : danimmunir1@gmail.com \n
         Phone : +62895326168339
         """)
 
